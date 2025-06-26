@@ -7,11 +7,7 @@
   <a href="https://github.com/carlos-carrillo01?tab=followers"><img src="https://img.shields.io/github/followers/carlos-carrillo01?label=Followers&style=social" alt="GitHub followers"></a>
 </p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=Java+%7C+Python+%7C+JavaScript+%7C+PHP;SQL+%7C+PostgreSQL+%7C+MySQL;Spring+Boot+%7C+Git+%7C+GitHub" alt="Typing SVG" />
-  </a>
-</div>
+
 
 ---
 
@@ -40,7 +36,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F72D&text_color=ffffff)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=carlos-carrillo01&theme=radical&hide_border=true&background=0D1117&stroke=00F72D&ring=00F72D&fire=00F72D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=carlos-carrillo01&theme=radical&background=0D1117&border=00F72D&fire=00F72D&currStreakLabel=00F72D)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
