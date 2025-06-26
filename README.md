@@ -36,7 +36,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F72D&text_color=ffffff)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=carlos-carrillo01&theme=radical&background=0D1117&border=00F72D&fire=00F72D&currStreakLabel=00F72D)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Estadísticas](https://github-readme-activity-graph.vercel.app/graph?username=carlos-carrillo01&theme=react-dark&hide_border=true&area=true&color=00F72D&line=00F72D)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
