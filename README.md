@@ -72,7 +72,8 @@
 
 
 ✨ **Escanea este código para conectarte directamente** ✨  
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/carlos-carrillo01" aling="center" width="120" alt="QR Code">
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/carlos-carrillo01" width="120" alt="QR Code">
 
 </div>
 
