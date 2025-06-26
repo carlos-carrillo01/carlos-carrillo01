@@ -56,11 +56,37 @@
 
 ---
 
-## 🎮 Actividad Reciente
 
-<!--START_SECTION:waka-->
-```text
-🌞 Mañana   █████████████████████████   100.00%
-🌆 Tarde    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00%
-🌃 Noche    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00%...
--->
+## 🌐 ¡Conectemos! / Let's Connect
+
+<div align="center">
+
+📬 **Contáctame para colaboraciones, oportunidades o un café virtual** ☕  
+
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-carrillog007mxz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:carloscarrillogonzalez07@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/StravissCT)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/carlos-carrillo01)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/stravissct)
+
+</div>
+
+
+✨ **Escanea este código para conectarte directamente** ✨  
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/carlos-carrillo01" width="120" alt="QR Code">
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F72D&height=100&section=footer&animation=twinkling" alt="footer wave">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=¡Gracias+por+visitar+mi+perfil!;¡Hagamos+algo+increíble+juntos!;Hasta+pronto+👨‍💻" alt="Typing SVG">
+</p>
