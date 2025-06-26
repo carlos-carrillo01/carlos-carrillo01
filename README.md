@@ -47,11 +47,10 @@
 ---
 
 ## 🌟 Proyectos Destacados
-
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-carrillo01&repo=tu-repo-destacado&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Foro-Hub.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-carrillo01&repo=otro-repo-destacado&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Literalura.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Foro-Hub&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Foro-Hub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Literalura&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Literalura)
 
 </div>
 
