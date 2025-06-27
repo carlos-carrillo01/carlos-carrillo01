@@ -33,8 +33,8 @@
 
 <div align="center">
   
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=carlos-carrillo01&random=123)](https://github.com/carlos-carrillo01)
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-carrillo01&hide=HTML,CSS)](https://github.com/carlos-carrillo01)
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=carlos-carrillo01&show_icons=true&theme=radical&hide_border=true)](https://github.com/carlos-carrillo01)
+[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true)](https://github.com/carlos-carrillo01)
 
 </div>
 
