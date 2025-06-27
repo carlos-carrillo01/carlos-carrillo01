@@ -33,9 +33,9 @@
 
 <div align="center">
   
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-carrillo01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F72D&icon_color=00F72D&text_color=ffffff)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=carlos-carrillo01&show_icons=true&theme=radical)](https://github.com/carlos-carrillo01)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F72D&text_color=ffffff)
+[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical)](https://github.com/carlos-carrillo01)
 
 </div>
 
