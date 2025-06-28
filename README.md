@@ -26,12 +26,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
   
-[![Stats](https://github-readme-stats.vercel.app/api?username=carlos-carrillo01&show_icons=true&theme=radical&hide_border=true)](https://github.com/carlos-carrillo01)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true)](https://github.com/carlos-carrillo01)
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=carlos-carrillo01&show_icons=true&theme=radical&hide_border=true)](https://github.com/carlos-carrillo01)
+[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true)](https://github.com/carlos-carrillo01)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlos-carrillo01&theme=radical&hide_border=true)](https://github.com/carlos-carrillo01)
 
 </div>
