@@ -1,13 +1,6 @@
 <h1 align="center">         
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF2D76&center=true&vCenter=true&width=800&lines=Hello!+I'm+Carlos+Carrillo;Computer+Systems+Student;Full+Stack+Developer+in+Training;Passionate+about+Tech+and+Innovation" alt="Typing SVG" />
 </h1> 
-  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carlos-carrillo01&label=Profile%20views&color=FF2D76&style=flat" alt="carlos-carrillo01" /> 
-  <a href="https://github.com/carlos-carrillo01?tab=followers"><img src="https://img.shields.io/github/followers/carlos-carrillo01?label=Followers&style=social" alt="GitHub followers"></a>
-</p>
-   
----
 
 ## 🔥 Technologies and Skills
 ### 🛠️ Tech Stack
