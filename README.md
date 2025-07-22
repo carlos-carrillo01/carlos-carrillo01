@@ -58,10 +58,6 @@
 
 </div>
 
-✨ **Scan this QR code to connect directly** ✨  
-
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/carlos-carrillo01" width="120" alt="QR Code">
-
 ---
 
 <p align="center">
