@@ -1,6 +1,6 @@
 <h1 align="center">         
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF2D76&center=true&vCenter=true&width=800&lines=Hello!+I'm+Carlos+Carrillo;Computer+Systems+Student;Full+Stack+Developer+in+Training;Passionate+about+Tech+and+Innovation" alt="Typing SVG" />
-</h1> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF2D76&center=true&vCenter=true&width=800&lines=Hi!+I'm+Carlos+Carrillo;Computer+Systems+Engineering+Student;Aspiring+Data+Engineer;Cloud,+Big+Data+%26+AI+Enthusiast" alt="Typing SVG" />
+</h1>
 
 ## 🔥 Technologies and Skills
 ### 🛠️ Tech Stack
