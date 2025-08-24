@@ -40,7 +40,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>CSS3
     </td>
     <td align="center">
-      <img src="https://laravel.com/img/logomark.min.svg" width="60"/><br>Laravel
+      <!-- vacío -->
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br>PostgreSQL
@@ -60,7 +60,7 @@
       <!-- vacío -->
     </td>
     <td align="center">
-      <!-- vacío -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/><br>MongoDB
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"/><br>Postman
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/><br>PHP
+      <!-- vacío -->
     </td>
     <td align="center">
       <!-- vacío -->
@@ -86,6 +86,7 @@
 </table>
 
 </div>
+
 
 
 ---
