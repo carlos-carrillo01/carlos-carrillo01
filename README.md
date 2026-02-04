@@ -15,8 +15,9 @@
     <th>Frontend</th>
     <th>Backend</th>
     <th>Databases</th>
-    <th>Tools</th>
+    <th>Tools / OS</th>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br>Java
@@ -34,6 +35,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br>Git
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python
@@ -41,7 +43,9 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>CSS3
     </td>
-    <td align="center"></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60"/><br>FastAPI
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br>PostgreSQL
     </td>
@@ -49,6 +53,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br>GitHub
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br>JavaScript
@@ -56,7 +61,9 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60"/><br>Vue.js
     </td>
-    <td align="center"></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/><br>Docker
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/><br>MongoDB
     </td>
@@ -64,12 +71,14 @@
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"/><br>Postman
     </td>
   </tr>
+
   <tr>
     <td colspan="4"></td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br>VS Code
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br>Linux
     </td>
   </tr>
+
 </table>
 
 </div>
@@ -86,8 +95,8 @@
   <img src="https://streak-stats.demolab.com/?user=carlos-carrillo01&theme=radical&hide_border=true" height="170"/>
 </div>
 
-
 ---
+
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -117,7 +126,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D76&height=100&section=footer&format=png" />
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF2D76&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+together!;See+you+soon+👨‍💻" />
