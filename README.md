@@ -85,14 +85,15 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carlos-carrillo01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true&langs_count=10" height="170"/>
+<img src="https://img.shields.io/badge/Focus-Data%20Engineering-FF2D76?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Spring%20Boot-FF2D76?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Containers-Docker-FF2D76?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/OS-Linux-FF2D76?style=for-the-badge&logo=linux&logoColor=white" />
 
-  <img src="https://streak-stats.demolab.com/?user=carlos-carrillo01&theme=radical&hide_border=true" height="170"/>
 </div>
 
 ---
@@ -100,9 +101,15 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Foro-Hub&theme=radical"/>
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Literalura&theme=radical"/>
+<a href="https://github.com/carlos-carrillo01/Challenge-Foro-Hub">
+  <img src="https://img.shields.io/badge/Challenge--Foro--Hub-Spring%20Boot-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/carlos-carrillo01/Challenge-Literalura">
+  <img src="https://img.shields.io/badge/Challenge--Literalura-Java-181717?style=for-the-badge&logo=github" />
+</a>
+
 </div>
 
 ---
@@ -130,3 +137,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF2D76&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+together!;See+you+soon+👨‍💻" />
 </p>
+
