@@ -1,3 +1,4 @@
+
 <h1 align="center">         
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF2D76&center=true&vCenter=true&width=800&lines=Hi!+I'm+Carlos+Carrillo;Computer+Systems+Engineering+Student;Aspiring+Data+Engineer;Cloud,+Big+Data+%26+AI+Enthusiast" alt="Typing SVG" />
 </h1>
@@ -15,9 +16,8 @@
     <th>Frontend</th>
     <th>Backend</th>
     <th>Databases</th>
-    <th>Tools / OS</th>
+    <th>Tools</th>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br>Java
@@ -35,7 +35,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br>Git
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python
@@ -43,9 +42,7 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>CSS3
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60"/><br>FastAPI
-    </td>
+    <td align="center"></td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br>PostgreSQL
     </td>
@@ -53,7 +50,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br>GitHub
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br>JavaScript
@@ -61,9 +57,7 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60"/><br>Vue.js
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/><br>Docker
-    </td>
+    <td align="center"></td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/><br>MongoDB
     </td>
@@ -71,28 +65,27 @@
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"/><br>Postman
     </td>
   </tr>
-
   <tr>
     <td colspan="4"></td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br>Linux
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br>VS Code
     </td>
   </tr>
-
 </table>
 
 </div>
 
 ---
 
-## 📊 GitHub Overview
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-Data%20Engineering-FF2D76?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Spring%20Boot-FF2D76?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Containers-Docker-FF2D76?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/OS-Linux-FF2D76?style=for-the-badge&logo=linux&logoColor=white" />
+[![Estadísticas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carlos-carrillo01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/carlos-carrillo01)
+
+[![Lenguajes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true&langs_count=10)](https://github.com/carlos-carrillo01)
+
+[![Streak](https://streak-stats.demolab.com/?user=carlos-carrillo01&theme=radical&hide_border=true)](https://github.com/carlos-carrillo01)
 
 </div>
 
@@ -102,13 +95,9 @@
 
 <div align="center">
 
-<a href="https://github.com/carlos-carrillo01/Challenge-Foro-Hub">
-  <img src="https://img.shields.io/badge/Challenge--Foro--Hub-Spring%20Boot-181717?style=for-the-badge&logo=github" />
-</a>
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Foro-Hub&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Foro-Hub)
 
-<a href="https://github.com/carlos-carrillo01/Challenge-Literalura">
-  <img src="https://img.shields.io/badge/Challenge--Literalura-Java-181717?style=for-the-badge&logo=github" />
-</a>
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Literalura&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Literalura)
 
 </div>
 
