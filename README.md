@@ -1,4 +1,3 @@
-
 <h1 align="center">         
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF2D76&center=true&vCenter=true&width=800&lines=Hi!+I'm+Carlos+Carrillo;Computer+Systems+Engineering+Student;Aspiring+Data+Engineer;Cloud,+Big+Data+%26+AI+Enthusiast" alt="Typing SVG" />
 </h1>
@@ -81,9 +80,9 @@
 
 <div align="center">
 
-[![Estadísticas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carlos-carrillo01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/carlos-carrillo01)
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=carlos-carrillo01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/carlos-carrillo01)
 
-[![Lenguajes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true&langs_count=10)](https://github.com/carlos-carrillo01)
+[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true&langs_count=10)](https://github.com/carlos-carrillo01)
 
 [![Streak](https://streak-stats.demolab.com/?user=carlos-carrillo01&theme=radical&hide_border=true)](https://github.com/carlos-carrillo01)
 
@@ -95,9 +94,9 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Foro-Hub&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Foro-Hub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Foro-Hub&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Foro-Hub)
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Literalura&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Literalura)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Literalura&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Literalura)
 
 </div>
 
