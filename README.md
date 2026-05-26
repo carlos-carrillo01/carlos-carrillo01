@@ -111,7 +111,6 @@
 
 <div align="center">
 
-[![Estadísticas](https://github-readme-stats-nine-blush-33.vercel.app/api?username=carlos-carrillo01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/carlos-carrillo01)
 
 [![Lenguajes](https://github-readme-stats-nine-blush-33.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true&langs_count=10)](https://github.com/carlos-carrillo01)
 
