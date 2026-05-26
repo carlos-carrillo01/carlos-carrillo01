@@ -111,11 +111,11 @@
 
 <div align="center">
 
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=carlos-carrillo01&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400)](https://github.com/carlos-carrillo01)
+[![Estadísticas](https://github-readme-stats-nine-blush-33.vercel.app/api?username=carlos-carrillo01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/carlos-carrillo01)
 
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true&langs_count=10)](https://github.com/carlos-carrillo01)
+[![Lenguajes](https://github-readme-stats-nine-blush-33.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true&langs_count=10)](https://github.com/carlos-carrillo01)
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlos-carrillo01&theme=radical&hide_border=true)](https://github.com/carlos-carrillo01)
+[![Streak](https://streak-stats.demolab.com/?user=carlos-carrillo01&theme=radical&hide_border=true)](https://github.com/carlos-carrillo01)
 
 </div>
 
@@ -125,10 +125,9 @@
 
 <div align="center">
 
+[![Readme Card](https://github-readme-stats-nine-blush-33.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Foro-Hub&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Foro-Hub)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Foro-Hub&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Foro-Hub)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Literalura&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Literalura)
+[![Readme Card](https://github-readme-stats-nine-blush-33.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Literalura&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Literalura)
 
 </div>
 
