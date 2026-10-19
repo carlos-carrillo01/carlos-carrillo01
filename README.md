@@ -111,10 +111,37 @@
 
 <div align="center">
 
+<!-- Stats generales: commits, PRs, PRs mergeados, reviews, issues.
+     El parámetro &v=2 rompe la caché; si no se actualiza, cámbialo a v=3, v=4, etc. -->
+<a href="https://github.com/carlos-carrillo01">
+  <img src="https://github-readme-stats-nine-blush-33.vercel.app/api/?username=carlos-carrillo01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&v=2" alt="GitHub Stats" />
+</a>
 
-[![Lenguajes](https://github-readme-stats-nine-blush-33.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true&langs_count=10)](https://github.com/carlos-carrillo01)
+<!-- Lenguajes + Streak lado a lado -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/carlos-carrillo01">
+        <img src="https://github-readme-stats-nine-blush-33.vercel.app/api/top-langs/?username=carlos-carrillo01&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/carlos-carrillo01">
+        <img src="https://streak-stats.demolab.com/?user=carlos-carrillo01&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Streak](https://streak-stats.demolab.com/?user=carlos-carrillo01&theme=radical&hide_border=true)](https://github.com/carlos-carrillo01)
+<!-- Gráfica de actividad (puede no verse en readme.so; pruébala en tu perfil real) -->
+<a href="https://github.com/carlos-carrillo01">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlos-carrillo01&bg_color=0d1117&color=FF2D76&line=FF2D76&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</a>
+
+<!-- Trofeos (mismo aviso: pruébalos en tu perfil real) -->
+<a href="https://github.com/carlos-carrillo01">
+  <img src="https://github-profile-trophy.vercel.app/?username=carlos-carrillo01&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+</a>
 
 </div>
 
@@ -127,6 +154,8 @@
 [![Readme Card](https://github-readme-stats-nine-blush-33.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Foro-Hub&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Foro-Hub)
 
 [![Readme Card](https://github-readme-stats-nine-blush-33.vercel.app/api/pin/?username=carlos-carrillo01&repo=Challenge-Literalura&theme=radical)](https://github.com/carlos-carrillo01/Challenge-Literalura)
+
+[![Readme Card](https://github-readme-stats-nine-blush-33.vercel.app/api/pin/?username=carlos-carrillo01&repo=weather-etl-pipeline&theme=radical)](https://github.com/carlos-carrillo01/weather-etl-pipeline)
 
 </div>
 
